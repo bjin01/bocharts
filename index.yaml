@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  myrancher:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2021-04-02T21:19:54.991162288+02:00"
+    description: A Helm chart for Kubernetes
+    digest: cbada299dabb9de52f2e8bc7e100af8c899bdbcd4525f82d9821a96657789caf
+    icon: https://brand.suse.com/assets/img/brand/logo-horizontal-02.png
+    maintainers:
+    - email: bo.jin@suse.com
+      name: Bo Jin
+      url: https://github.com/bjin01/myrancher
+    name: myrancher
+    sources:
+    - https://github.com/bjin01/myrancher
+    type: application
+    urls:
+    - https://github.com/bjin01/bocharts/releases/download/myrancher-0.1.0/myrancher-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-02T21:19:54.991172321+02:00"
